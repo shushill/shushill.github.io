@@ -1306,12 +1306,12 @@
 
 	body {
 		background-color: #1E824C;
-/* 		background-image: url("images/overlay.png"), url("../../images/bg.jpg"); */
-		background-image: url("../../images/bg.jpg")
+		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+/* 		background-image: url("../../images/bg.jpg") */
 /* 		background-repeat: repeat, no-repeat; */
 		background-repeat: repeat;
 /*		background-size: auto, cover;*/
-/* 		background-size: auto, 200% auto; */
+		background-size: auto, 200% auto;
 		background-size: auto;
 		background-position: top left, center 0;
 		background-attachment: fixed, fixed;
